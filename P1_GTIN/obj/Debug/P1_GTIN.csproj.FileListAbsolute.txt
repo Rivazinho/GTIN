@@ -1,0 +1,19 @@
+F:\Informática industrial\P1_GTIN\P1_GTIN\bin\Debug\P1_GTIN.exe.config
+F:\Informática industrial\P1_GTIN\P1_GTIN\bin\Debug\P1_GTIN.exe
+F:\Informática industrial\P1_GTIN\P1_GTIN\bin\Debug\P1_GTIN.pdb
+F:\Informática industrial\P1_GTIN\P1_GTIN\obj\Debug\P1_GTIN.csprojResolveAssemblyReference.cache
+F:\Informática industrial\P1_GTIN\P1_GTIN\obj\Debug\P1_GTIN.exe
+F:\Informática industrial\P1_GTIN\P1_GTIN\obj\Debug\P1_GTIN.pdb
+D:\Bruno\Documents\3º - 1º Cuatrimestre\Informática Industrial\Prácticas\P1_GTIN\P1_GTIN\bin\Debug\P1_GTIN.exe.config
+D:\Bruno\Documents\3º - 1º Cuatrimestre\Informática Industrial\Prácticas\P1_GTIN\P1_GTIN\bin\Debug\P1_GTIN.exe
+D:\Bruno\Documents\3º - 1º Cuatrimestre\Informática Industrial\Prácticas\P1_GTIN\P1_GTIN\bin\Debug\P1_GTIN.pdb
+D:\Bruno\Documents\3º - 1º Cuatrimestre\Informática Industrial\Prácticas\P1_GTIN\P1_GTIN\obj\Debug\P1_GTIN.csprojAssemblyReference.cache
+D:\Bruno\Documents\3º - 1º Cuatrimestre\Informática Industrial\Prácticas\P1_GTIN\P1_GTIN\obj\Debug\P1_GTIN.csproj.CoreCompileInputs.cache
+D:\Bruno\Documents\3º - 1º Cuatrimestre\Informática Industrial\Prácticas\P1_GTIN\P1_GTIN\obj\Debug\P1_GTIN.exe
+D:\Bruno\Documents\3º - 1º Cuatrimestre\Informática Industrial\Prácticas\P1_GTIN\P1_GTIN\obj\Debug\P1_GTIN.pdb
+F:\3º-Informática industrial\De casa\P1_GTIN\P1_GTIN\bin\Debug\P1_GTIN.exe.config
+F:\3º-Informática industrial\De casa\P1_GTIN\P1_GTIN\bin\Debug\P1_GTIN.exe
+F:\3º-Informática industrial\De casa\P1_GTIN\P1_GTIN\bin\Debug\P1_GTIN.pdb
+F:\3º-Informática industrial\De casa\P1_GTIN\P1_GTIN\obj\Debug\P1_GTIN.exe
+F:\3º-Informática industrial\De casa\P1_GTIN\P1_GTIN\obj\Debug\P1_GTIN.pdb
+F:\3º-Informática industrial\De casa\P1_GTIN\P1_GTIN\obj\Debug\P1_GTIN.csprojResolveAssemblyReference.cache
